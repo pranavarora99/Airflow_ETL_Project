@@ -4,10 +4,10 @@ import json
 from datetime import datetime
 import s3fs
 
-access_key = "wZjkQfI5G2ZxcfUlAaC5Sbgkv"
-access_secret_key = "rnV8JLnFqz5YlxVqiZAePwXNdhendbeGbVh5kJvLnGIQ5eFnxt"
-consumer_key = "1668065007920115716-dXukE57gTNVyUKupfNmfNUTBYNkvIy"
-consumer_secret_key = "nkYatazErnVyOD2jzs5Z5yWTyCRHMQNEh03bY8SD4nXyi"
+access_key = "*****************"
+access_secret_key = "***********************************"
+consumer_key = "*****************"
+consumer_secret_key = "***************"
 
 #twitter authentication
 auth = tweepy.OAuthHandler(access_key, access_secret_key)
